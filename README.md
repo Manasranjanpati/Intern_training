@@ -2,8 +2,8 @@
 
 ### Django
 ------
-- [Introduction to Web Development and Django]()
-- [Django & IDE Installation and Development of First Web Application]()
+- [Introduction to Web Development and Django](docs/introduction_to_django.md)
+- [Django & IDE Installation and Development of First Web Application](docs/django_ideinstallation_and_firstapp.md)
 - [Django Templates and Static Files]()
 - [Working with Models and Databases]()
 - [Working with Django Forms]()
