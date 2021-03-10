@@ -35,4 +35,4 @@
 
 | Plugin | README |
 | ------ | ------ |
-| Dropbox | [plugins/dropbox/README.md][PlDb] |
+| Django Allauth | [docs.me] |
