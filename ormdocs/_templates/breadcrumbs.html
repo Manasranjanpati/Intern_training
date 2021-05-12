@@ -1,0 +1,15 @@
+{%- extends "sphinx_rtd_theme/breadcrumbs.html" %}
+
+{% block breadcrumbs %}
+      <li><a href="https://manasranjanpati.netlify.app/">{{ _('About Me') }}</a> &raquo;</li>
+      <li><a href="{{ pathto(master_doc) }}">{{ _('Django ORM with Manas') }}</a> &raquo;</li>
+        {% for doc in parents %}
+          <li><a href="{{ doc.link|e }}">{{ doc.title }}</a> &raquo;</li>
+        {% endfor %}
+      <li>{{ title }}</li>
+    {% endblock %}
+
+
+{% block breadcrumbs_aside %}
+    <a href="iammanas24@gmail.com.com" target="_blank" class="btn contact-top">iammanas24@gmail.com.com</a>
+{% endblock %}
