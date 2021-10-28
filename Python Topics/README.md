@@ -10,3 +10,4 @@ to learn more about whatever you want after studying it.
 1. [Variables, Booleans and None](basics/variables.md)
 2. [Using functions](basics/using-function.md)
 3. [If, else and elif](basics/if.md)
+4. [Doing Stuffs with Strings](basics/handy-stuff-string.md)
