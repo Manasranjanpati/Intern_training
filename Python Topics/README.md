@@ -12,3 +12,6 @@ to learn more about whatever you want after studying it.
 3. [If, else and elif](basics/if.md)
 4. [Doing Stuffs with Strings](basics/handy-stuff-string.md)
 5. [List and Tuples](basics/list-and-tuples.md)
+5. [Loops](basics/loops.md)
+5. [Dictionaries](basics/dicts.md)
+5. [Defining Functions](basics/defining-functions.md)
